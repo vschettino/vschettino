@@ -1,12 +1,3 @@
-### My Github Profile
-
-Hey guys,
-
-As of now, I use Github mostly for private repositories. My [GitLab Profile](https://gitlab.com/vschettino/) has way more OpenSource, with some interesting projects I've been working on. Check it out!
-
-- [My site](https://vschettino.me/) is still up, with monthly posts or so. The old portuguese version (~~http://vschettino.com.br~~) is gone for good now. 
-- You can reach me out if you have any questions on my projects, bussiness enquiries, or discuss about stuff I voiced my opinion about. I might reply faster on [Twitter](https://twitter.com/vschettino_), but you can pick the [media that suits you best](https://vschettino.me/pages/contacts). 
-- I am not much of social media guy, so you won't find me on Facebook or Instagram (Or TikTok??). I only have Twitter and [LinkedIn](https://www.linkedin.com/in/vinicius-schettino/), basically for work stuff (and an occasional giggle).
 
 <!--
 **vschettino/vschettino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
